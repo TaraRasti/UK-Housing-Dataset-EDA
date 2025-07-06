@@ -19,3 +19,15 @@ Exploratory Data Analysis of UK property prices using Python
    ```bash
    git clone https://github.com/TaraRasti/UK-Housing-Dataset-EDA.git
    cd UK-Housing-Dataset-EDA
+
+---
+## 🛠️ Tools & Technologies Used
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Git & GitHub
+
+
