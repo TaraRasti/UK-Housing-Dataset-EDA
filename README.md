@@ -30,4 +30,15 @@ Exploratory Data Analysis of UK property prices using Python
 - Jupyter Notebook
 - Git & GitHub
 
+---
+## 📚 Learning Goals
+
+This project was created as part of my transition into data science.  
+Here are some things I'm focusing on:
+
+- Cleaning and understanding real-world datasets
+- Creating clear, insightful visualizations
+- Gaining experience in Python-based EDA
+
+
 
